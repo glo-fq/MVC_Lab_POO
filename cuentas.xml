@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<datos>
+    <usuarios>
+        <usuario>
+            <nombre>jaimerios@gmail.com</nombre>
+            <clave>jaime123</clave>
+        </usuario>
+        <usuario>
+            <nombre>adrianbg@hotmail.com</nombre>
+            <clave>adrian</clave>
+        </usuario>
+        <usuario>
+            <nombre>ivanniacm@gmail.com</nombre>
+            <clave>ivannia</clave>
+        </usuario>
+    </usuarios>
+</datos>

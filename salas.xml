@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<elementos>
+    <salasXML>
+        <capacidad>5</capacidad>
+        <identificador>1</identificador>
+        <ubicacion>Secundario</ubicacion>
+    </salasXML>
+    <salasXML>
+        <capacidad>8</capacidad>
+        <identificador>2</identificador>
+        <ubicacion>Principal</ubicacion>
+    </salasXML>
+    <salasXML>
+        <capacidad>10</capacidad>
+        <identificador>3</identificador>
+        <ubicacion>Principal</ubicacion>
+    </salasXML>
+    <salasXML>
+        <capacidad>20</capacidad>
+        <identificador>8</identificador>
+        <ubicacion>aqui</ubicacion>
+    </salasXML>
+    <salasXML>
+        <capacidad>10</capacidad>
+        <identificador>2018</identificador>
+        <ubicacion>Centro Nacional de la Música</ubicacion>
+    </salasXML>
+    <salas>
+        <sala>
+            <capacidad>5</capacidad>
+            <identificador>1</identificador>
+            <ubicacion>Secundario</ubicacion>
+        </sala>
+        <sala>
+            <capacidad>8</capacidad>
+            <identificador>2</identificador>
+            <ubicacion>Principal</ubicacion>
+        </sala>
+        <sala>
+            <capacidad>10</capacidad>
+            <identificador>3</identificador>
+            <ubicacion>Principal</ubicacion>
+        </sala>
+        <sala>
+            <capacidad>20</capacidad>
+            <identificador>8</identificador>
+            <ubicacion>aqui</ubicacion>
+        </sala>
+        <sala>
+            <capacidad>10</capacidad>
+            <identificador>2018</identificador>
+            <ubicacion>Centro Nacional de la Música</ubicacion>
+        </sala>
+    </salas>
+</elementos>

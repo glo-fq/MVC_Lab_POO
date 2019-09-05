@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datos>
+    <cuentasXML>
+        <nombre>mario</nombre>
+        <clave>123</clave>
+    </cuentasXML>
+    <cuentasXML>
+        <nombre>qwerty</nombre>
+        <clave>rodrigo</clave>
+    </cuentasXML>
+    <cuentasXML>
+        <nombre>glori</nombre>
+        <clave>bakingSoda</clave>
+    </cuentasXML>
+    <cuentasXML>
+        <nombre>lombax</nombre>
+        <clave>IloveDrMundo</clave>
+    </cuentasXML>
+    <usuarios>
+        <usuario>
+            <nombre>mario</nombre>
+            <clave>123</clave>
+        </usuario>
+        <usuario>
+            <nombre>qwerty</nombre>
+            <clave>rodrigo</clave>
+        </usuario>
+        <usuario>
+            <nombre>glori</nombre>
+            <clave>bakingSoda</clave>
+        </usuario>
+        <usuario>
+            <nombre>lombax</nombre>
+            <clave>IloveDrMundo</clave>
+        </usuario>
+    </usuarios>
+</datos>
